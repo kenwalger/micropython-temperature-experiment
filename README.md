@@ -125,4 +125,4 @@ This project accompanies the article series **Revisiting MicroPython in the Real
 
 ## License
 
-<!-- Add the actual repository license and link here once selected. Do not assume a license until a LICENSE file has been committed. -->
+MIT License can be found [here](LICENSE).
